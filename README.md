@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm G Abhishek</h1>
 <h3 align="center">A passionate MERN stack developer from Raipur, Chhattisgarh.</h3>  
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabhishekrao&label=Profile%20views&color=0e75b6&style=flat" alt="gabhishekrao" /> </p>
 
