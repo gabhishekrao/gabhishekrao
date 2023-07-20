@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm G Abhishek</h1>
-<h3 align="center">A passionate MERN stack developer from Raipur, Chhattisgarh.</h3>  
+<h1 align="center">Hi there Devs👋, I'm G Abhishek</h1>
+<h3 align="center">A fully passionate Full stack developer.</h3>  
 
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
